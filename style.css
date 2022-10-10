@@ -1,0 +1,38 @@
+.a{
+    text-decoration: none;
+}
+.body{
+    background: -webkit-linear-gradient(bottom,#3498db,#9b59b6);
+}
+.label{
+    font-family: "Raleway",sans-serif;
+    font-size: 11pt;
+}
+#forgot-pass{
+    color: #16a085;
+    font-family: "Raleway",sans-serif;
+    font-size: 10pt;
+    margin-top: 3px;
+    text-align: right;
+}
+#card{
+    background: #fbfbfb;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0,0,0,0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+#card-content{
+    padding: 12px 44px;
+}
+#card-title{
+    font-family: "Releway Thin",sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+#signup{
+
+}
